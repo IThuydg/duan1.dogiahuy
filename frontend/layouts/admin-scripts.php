@@ -14,9 +14,7 @@
 <script src="../assets/js/admin.js"></script>
 <!-- datatables -->
 
-<!-- datatables -->
-<script src="../assets/vendor/datatables/js/2_jquery.dataTables.min.js"></script>
-<script src="../assets/vendor/datatables/js/3_dataTables.bootstrap5.min.js"></script>
+
 <script src="../assets/vendor/datatables/js/4_dataTables.buttons.min.js"></script>
 <script src="../assets/vendor/datatables/js/5_buttons.bootstrap5.min.js"></script>
 <script src="../assets/vendor/datatables/js/6_jszip.min.js"></script>
